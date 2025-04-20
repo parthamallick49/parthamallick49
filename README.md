@@ -2,11 +2,11 @@
 ### I'm Partha Pratim Mallick
 ### An Aspiring Software Engineer
 
-I'm a passionate Software Developer with a focus on mobile application development and a strong interest in building scalable, user-centric digital products.
-🎓 Recently graduated with a degree in Computer Science and Engineering, I'm currently honing my skills as a Software Developer Intern at Grameen Communications.
+#### I'm a passionate Software Developer with a focus on mobile application development and a strong interest in building scalable, user-centric digital products.
+#### 🎓 Recently graduated with a degree in Computer Science and Engineering, I'm currently honing my skills as a Software Developer Intern at Grameen Communications.
 
-💻 I love turning ideas into clean, efficient code. Most of my recent work revolves around Flutter, where I'm building modern, intuitive mobile experiences.
-🚀 I'm also exploring full-stack development and love tinkering with backend services, APIs, and deployment strategies.
+#### 💻 I love turning ideas into clean, efficient code. Most of my recent work revolves around Flutter, where I'm building modern, intuitive mobile experiences.
+#### 🚀 I'm also exploring full-stack development and love tinkering with backend services, APIs, and deployment strategies.
 
 - 🔭 I’m currently working on Mobile Application Development 
 - 🌱 I’m currently learning Mobile App with Flutter 
