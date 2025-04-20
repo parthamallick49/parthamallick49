@@ -13,7 +13,7 @@ I'm a passionate Software Developer with a focus on mobile application developme
 - 📫 How to reach me: parthamallick.cs@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/parthamallick49)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/parthamalllick//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/parthamallick49)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/parthamalllick//)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parthamallick49)](https://github.com/anuraghazra/github-readme-stats)
 
