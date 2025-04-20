@@ -1,6 +1,11 @@
-# 👋 Hi there, I'm Partha Pratim Mallick!
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira&size=30&duration=3000&pause=5000&color=1F75C6&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Partha+Pratim+Mallick!" alt="👋 Hi there, I'm Partha Pratim Mallick!" />
+</p>
+
 
 ### 🚀 Aspiring Software Engineer | Mobile App Developer | Tech Enthusiast
+
+<!--<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1F75C6&center=true&vCenter=true&width=435&lines=Aspiring+Software+Engineer;Flutter+Lover+%F0%9F%93%B1;Always+Learning+%F0%9F%93%9A;Clean+%26+Efficient+Code" alt="Typing SVG" />-->
 
 I'm a passionate **Software Developer** with a knack for crafting intuitive and user-friendly mobile applications. I recently graduated with a degree in **Computer Science and Engineering**, and I'm currently sharpening my skills as a **Software Developer Intern at Grameen Communications**.
 
@@ -18,14 +23,23 @@ I'm a passionate **Software Developer** with a knack for crafting intuitive and 
 
 ### 🛠️ Tech Stack
 
-**Languages & Frameworks:**  
-`Flutter` | `Dart` | `Java` | `C` | `.NET` | `C#`  
+**👨‍💻 Languages & Frameworks**  
+`Flutter` • `Dart` • `Java` • `C` • `.NET` • `C#`
 
-**Tools & Platforms:**  
-`Firebase` | `Git` | `Postman` | `VS Code` | `Android Studio`  
+**🧰 Tools & Platforms**  
+`Firebase` • `Git` • `Postman` • `Swagger UI`  
+`VS Code` • `Android Studio`
 
-**Currently Exploring:**  
-Backend development with `.NET Core`, `SQL Server`
+**🌐 Currently Exploring**  
+Backend development with `.NET Core` and `SQL Server`
+
+---
+
+### 👀 Profile Views
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=parthamallick49&label=Profile%20Views&color=0e75b6&style=flat" alt="parthamallick49" />
+</p>
 
 ---
 
@@ -33,19 +47,31 @@ Backend development with `.NET Core`, `SQL Server`
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthamallick49&layout=compact&theme=default" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=parthamallick49&show_icons=true&theme=default&count_private=true" /></td>
-    <td><img src="https://streak-stats.demolab.com?user=parthamallick49&theme=default" /></td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthamallick49&layout=compact&theme=default" width="300"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=parthamallick49&show_icons=true&theme=default&count_private=true" width="400"/>
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=parthamallick49&theme=default" width="350"/>
+    </td>
   </tr>
 </table>
-
 
 ---
 
 ### 🔗 Connect With Me
 
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="30">](https://github.com/parthamallick49) &nbsp;
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30">](https://www.linkedin.com/in/parthamalllick/)
+<p align="center">
+  <a href="https://github.com/parthamallick49" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="30">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/parthamallick/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30">
+  </a>
+</p>
 
 ---
 
