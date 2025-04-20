@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira&size=30&duration=3000&pause=5000&color=1F75C6&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Partha+Pratim+Mallick!" alt="👋 Hi there, I'm Partha Pratim Mallick!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira&size=26&duration=3000&pause=5000&color=1F75C6&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Partha+Pratim+Mallick!" alt="👋 Hi there, I'm Partha Pratim Mallick!" />
 </p>
 
 
