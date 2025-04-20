@@ -24,7 +24,7 @@ I'm a passionate **Software Developer** with a knack for crafting intuitive and 
 ### 🛠️ Tech Stack
 
 **👨‍💻 Languages & Frameworks**  
-`Flutter` • `Dart` • `Java` • `C` • `.NET` • `C#`
+`Flutter` • `Dart` • `Java` • `C` • `.NET` • `C#` • `Native Android`
 
 **🧰 Tools & Platforms**  
 `Firebase` • `Git` • `Postman` • `Swagger UI`  
