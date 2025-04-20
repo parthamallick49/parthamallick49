@@ -1,6 +1,6 @@
 # Hi there 👋,
-####I'm Partha Pratim Mallick
-#### An Aspiring Software Engineer
+### I'm Partha Pratim Mallick
+### An Aspiring Software Engineer
 
 I'm a passionate Software Developer with a focus on mobile application development and a strong interest in building scalable, user-centric digital products.
 🎓 Recently graduated with a degree in Computer Science and Engineering, I'm currently honing my skills as a Software Developer Intern at Grameen Communications.
