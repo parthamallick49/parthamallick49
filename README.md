@@ -1,23 +1,52 @@
-# Hi there 👋,
-### I'm Partha Pratim Mallick
-### An Aspiring Software Engineer
+# 👋 Hi there, I'm Partha Pratim Mallick!
 
-#### I'm a passionate Software Developer with a focus on mobile application development and a strong interest in building scalable, user-centric digital products.
-#### 🎓 Recently graduated with a degree in Computer Science and Engineering, I'm currently honing my skills as a Software Developer Intern at Grameen Communications.
+### 🚀 Aspiring Software Engineer | Mobile App Developer | Tech Enthusiast
 
-#### 💻 I love turning ideas into clean, efficient code. Most of my recent work revolves around Flutter, where I'm building modern, intuitive mobile experiences.
-#### 🚀 I'm also exploring full-stack development and love tinkering with backend services, APIs, and deployment strategies.
+I'm a passionate **Software Developer** with a knack for crafting intuitive and user-friendly mobile applications. I recently graduated with a degree in **Computer Science and Engineering**, and I'm currently sharpening my skills as a **Software Developer Intern at Grameen Communications**.
 
-- 🔭 I’m currently working on Mobile Application Development 
-- 🌱 I’m currently learning Mobile App with Flutter 
-- 📫 How to reach me: parthamallick.cs@gmail.com 
+---
+
+### 💡 About Me
+
+- 🎓 **Recent Graduate** in Computer Science & Engineering  
+- 🛠️ **Currently Building:** Mobile applications with **Flutter**  
+- 🌱 **Learning:** Full-stack development, backend services, API integration, and deployment strategies  
+- 💬 **I Love:** Clean code, creative UI/UX, scalable systems, and continuous learning  
+- 📫 **Reach Me At:** [parthamallick.cs@gmail.com](mailto:parthamallick.cs@gmail.com)
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages & Frameworks:**  
+`Flutter` | `Dart` | `Java` | `C` | `.NET` | `C#`  
+
+**Tools & Platforms:**  
+`Firebase` | `Git` | `Postman` | `VS Code` | `Android Studio`  
+
+**Currently Exploring:**  
+Backend development with `.NET Core`, `SQL Server`
+
+---
+
+### 📊 GitHub Stats
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthamallick49&layout=compact&theme=default" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=parthamallick49&show_icons=true&theme=default&count_private=true" /></td>
+    <td><img src="https://streak-stats.demolab.com?user=parthamallick49&theme=default" /></td>
+  </tr>
+</table>
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/parthamallick49)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/parthamalllick/)  
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parthamallick49)](https://github.com/anuraghazra/github-readme-stats)
+### 🔗 Connect With Me
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=parthamallick49&show_icons=true&count_private=true)  
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="30">](https://github.com/parthamallick49) &nbsp;
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30">](https://www.linkedin.com/in/parthamalllick/)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=parthamallick49)  
+---
 
+_“Turning ideas into impactful mobile experiences — one line of code at a time.”_
