@@ -67,7 +67,7 @@ Backend development with `.NET Core` and `SQL Server`
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="30">
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/parthamallick/" target="_blank">
+  <a href="https://www.linkedin.com/in/parthamalllick/" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30">
   </a>
 </p>
