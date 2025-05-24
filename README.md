@@ -27,8 +27,8 @@ I'm a passionate **Software Developer** with a knack for crafting intuitive and 
 `Flutter` • `Dart` • `Java` • `C` • `.NET` • `C#` • `Native Android`
 
 **🧰 Tools & Platforms**  
-`Firebase` • `Git` • `Postman` • `Swagger UI` • `VS Code` • `Android Studio` • `Figma`
-`Visual Studio`
+`Firebase` • `Git` • `Postman` • `Swagger UI` • `VS Code` • `Android Studio`  `Figma`
+• `Visual Studio`
 
 **🌐 Currently Exploring**  
 Backend development with `.NET Core` and `MSSQL`
