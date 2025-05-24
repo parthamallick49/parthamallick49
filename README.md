@@ -27,11 +27,12 @@ I'm a passionate **Software Developer** with a knack for crafting intuitive and 
 `Flutter` • `Dart` • `Java` • `C` • `.NET` • `C#` • `Native Android`
 
 **🧰 Tools & Platforms**  
-`Firebase` • `Git` • `Postman` • `Swagger UI` • `VS Code` • `Android Studio`
+`Firebase` • `Git` • `Postman` • `Swagger UI` • `VS Code` • `Android Studio` • `Figma`
+`Visual Studio`
 
 **🌐 Currently Exploring**  
-Backend development with `.NET Core` and `SQL Server`
-
+Backend development with `.NET Core` and `MSSQL`
+<p align="left"> <img src="https://skillicons.dev/icons?i=flutter,dart,java,c,dotnet,cs,firebase,git,postman,vscode,androidstudio,figma,visualstudio,js,mysql,mongodb,php" alt="Tech Stack" /> </p>
 ---
 
 ### 👀 Profile Views
