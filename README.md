@@ -33,6 +33,7 @@ I'm a passionate **Software Developer** with a knack for crafting intuitive and 
 **🌐 Currently Exploring**  
 Backend development with `.NET Core` and `MSSQL`
 <p align="left"> <img src="https://skillicons.dev/icons?i=flutter,dart,java,c,dotnet,cs,firebase,git,postman,vscode,androidstudio,figma,visualstudio,js,mysql,mongodb,php" alt="Tech Stack" /> </p>
+
 ---
 
 ### 👀 Profile Views
@@ -47,14 +48,14 @@ Backend development with `.NET Core` and `MSSQL`
 
 <table>
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthamallick49&layout=compact&theme=default" width="300"/>
+    <td align="center" style="padding: 12px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthamallick49&layout=compact&theme=default&hide_border=false" width="400" />
     </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=parthamallick49&show_icons=true&theme=default&count_private=true" width="400"/>
+    <td align="center" style="padding: 12px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=parthamallick49&show_icons=true&theme=default&count_private=true&include_all_commits=true&hide_border=false" width="450" />
     </td>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=parthamallick49&theme=default" width="350"/>
+    <td align="center" style="padding: 12px;">
+      <img src="https://streak-stats.demolab.com?user=parthamallick49&theme=default&hide_border=false" width="420" />
     </td>
   </tr>
 </table>
@@ -75,4 +76,4 @@ Backend development with `.NET Core` and `MSSQL`
 
 ---
 
-_“Turning ideas into impactful mobile experiences — one line of code at a time.”_
+_“Turning ideas into impactful mobile experiences — Writing code that speaks louder than words.”_
