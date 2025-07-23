@@ -62,6 +62,10 @@ Backend development with `.NET Core` and `MSSQL`
 
 ---
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parthamallick49" alt="parthamallick49" /></a> </p>
+
+---
+
 ### 🔗 Connect With Me
 
 <p align="center">
