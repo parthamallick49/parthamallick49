@@ -32,7 +32,7 @@ I'm a passionate **Software Developer** with a knack for crafting intuitive and 
 
 **🌐 Currently Exploring**  
 Backend development with `.NET Core` and `MSSQL`
-<p align="left"> <img src="https://skillicons.dev/icons?i=flutter,dart,java,c,dotnet,cs,firebase,git,postman,vscode,androidstudio,figma,visualstudio,js,mysql,mongodb,php" alt="Tech Stack" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=flutter,dart,java,c,dotnet,cs,firebase,git,postman,vscode,androidstudio,figma,visualstudio,js,mysql,mongodb,php,arduino,bootstrap,github,gradle,idea,linux,netlify,nodejs,react,sqlite,stackoverflow,xd,ubuntu,sublime," alt="Tech Stack" /> </p>
 
 ---
 
