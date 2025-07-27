@@ -7,7 +7,7 @@
 
 <!--<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1F75C6&center=true&vCenter=true&width=435&lines=Aspiring+Software+Engineer;Flutter+Lover+%F0%9F%93%B1;Always+Learning+%F0%9F%93%9A;Clean+%26+Efficient+Code" alt="Typing SVG" />-->
 
-I'm a passionate **Software Developer** with a knack for crafting intuitive and user-friendly mobile applications. I recently graduated with a degree in **Computer Science and Engineering**, and I'm currently sharpening my skills as a **Software Developer Intern at Grameen Communications**.
+I'm a passionate **Software Developer** with a knack for crafting intuitive and user-friendly mobile applications. I recently graduated with a degree in **Computer Science and Engineering**, and I'm currently sharpening my skills as a **Junior Software Engineer at Grameen Communications**.
 
 ---
 
