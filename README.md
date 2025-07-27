@@ -32,7 +32,52 @@ I'm a passionate **Software Developer** with a knack for crafting intuitive and 
 
 **🌐 Currently Exploring**  
 Backend development with `.NET Core` and `MSSQL`
-<p align="left"> <img src="https://skillicons.dev/icons?i=flutter,dart,java,c,dotnet,cs,firebase,git,postman,vscode,androidstudio,figma,visualstudio,js,mysql,mongodb,php,arduino,bootstrap,github,gradle,idea,linux,netlify,nodejs,react,sqlite,stackoverflow,xd,ubuntu,sublime," alt="Tech Stack" /> </p>
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
+  <img src="https://skills.syvixor.com/api/icons?i=codeforces" alt="Codeforces" height="50" />
+  <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" height="50" />
+  <img src="https://skillicons.dev/icons?i=dart" alt="Dart" height="50" />
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" height="50" />
+  <img src="https://skillicons.dev/icons?i=c" alt="C" height="50" />
+  <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" height="50" />
+  <img src="https://skillicons.dev/icons?i=cs" alt="C#" height="50" />
+  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" height="50" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" height="50" />
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" height="50" />
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" height="50" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" height="50" />
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" height="50" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" height="50" />
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="50" />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="50" />
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="50" />
+  <img src="https://skillicons.dev/icons?i=php" alt="PHP" height="50" />
+  <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" height="50" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" height="50" />
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="50" />
+  <img src="https://skillicons.dev/icons?i=gradle" alt="Gradle" height="50" />
+  <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" height="50" />
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" height="50" />
+  <img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" height="50" />
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="50" />
+  <img src="https://skillicons.dev/icons?i=react" alt="React" height="50" />
+  <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" height="50" />
+  <img src="https://skillicons.dev/icons?i=stackoverflow" alt="Stack Overflow" height="50" />
+  <img src="https://skillicons.dev/icons?i=xd" alt="Adobe XD" height="50" />
+  <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" height="50" />
+  <img src="https://skillicons.dev/icons?i=sublime" alt="Sublime Text" height="50" />
+  <img src="https://skills.syvixor.com/api/icons?i=chatgpt" alt="chatgpt" height="50" />
+  <img src="https://skills.syvixor.com/api/icons?i=gitbash" alt="gitbash" height="50" />
+  <img src="https://skills.syvixor.com/api/icons?i=bash" alt="bash" height="50" />
+  <img src="https://skills.syvixor.com/api/icons?i=googlecolaboratory" alt="googlecolaboratory" height="50" />
+  <img src="https://skills.syvixor.com/api/icons?i=jetpackcompose" alt="jetpackcompose" height="50" />
+  <img src="https://skills.syvixor.com/api/icons?i=xampp" alt="xampp" height="50" />
+  <img src="https://skills.syvixor.com/api/icons?i=xaml" alt="xaml" height="50" />
+  <img src="https://skills.syvixor.com/api/icons?i=swagger" alt="swagger" height="50" />
+  <img src="https://skills.syvixor.com/api/icons?i=intellijidea" alt="intellijidea" height="50" />
+  <img src="https://skills.syvixor.com/api/icons?i=netlify" alt="netlify" height="50" />
+</p>
+
+
 
 ---
 
